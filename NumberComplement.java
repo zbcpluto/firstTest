@@ -19,6 +19,7 @@ public class NumberComplement {
 			}
 		}
 	
+	//将二进制字符串转化为十进制字符串
 	public static String bin2dec(String input){
 		if(input.length() == 1) {
 			return input;
